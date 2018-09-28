@@ -1,0 +1,17 @@
+C:\Users\Ibrahim Mosad\source\repos\WebApplication\WebApplication_Test\obj\Debug\netcoreapp2.1\WebApplication_Test.csprojAssemblyReference.cache
+C:\Users\Ibrahim Mosad\source\repos\WebApplication\WebApplication_Test\obj\Debug\netcoreapp2.1\WebApplication_Test.csproj.CoreCompileInputs.cache
+C:\Users\Ibrahim Mosad\source\repos\WebApplication\WebApplication_Test\obj\Debug\netcoreapp2.1\WebApplication_Test.AssemblyInfoInputs.cache
+C:\Users\Ibrahim Mosad\source\repos\WebApplication\WebApplication_Test\obj\Debug\netcoreapp2.1\WebApplication_Test.AssemblyInfo.cs
+C:\Users\Ibrahim Mosad\source\repos\WebApplication\WebApplication_Test\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Ibrahim Mosad\source\repos\WebApplication\WebApplication_Test\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Ibrahim Mosad\source\repos\WebApplication\WebApplication_Test\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Ibrahim Mosad\source\repos\WebApplication\WebApplication_Test\bin\Debug\netcoreapp2.1\WebApplication_Test.deps.json
+C:\Users\Ibrahim Mosad\source\repos\WebApplication\WebApplication_Test\bin\Debug\netcoreapp2.1\WebApplication_Test.runtimeconfig.json
+C:\Users\Ibrahim Mosad\source\repos\WebApplication\WebApplication_Test\bin\Debug\netcoreapp2.1\WebApplication_Test.runtimeconfig.dev.json
+C:\Users\Ibrahim Mosad\source\repos\WebApplication\WebApplication_Test\bin\Debug\netcoreapp2.1\WebApplication_Test.dll
+C:\Users\Ibrahim Mosad\source\repos\WebApplication\WebApplication_Test\bin\Debug\netcoreapp2.1\WebApplication.dll
+C:\Users\Ibrahim Mosad\source\repos\WebApplication\WebApplication_Test\bin\Debug\netcoreapp2.1\WebApplication.pdb
+C:\Users\Ibrahim Mosad\source\repos\WebApplication\WebApplication_Test\obj\Debug\netcoreapp2.1\WebApplication_Test.csproj.CopyComplete
+C:\Users\Ibrahim Mosad\source\repos\WebApplication\WebApplication_Test\bin\Debug\netcoreapp2.1\WebApplication_Test.pdb
+C:\Users\Ibrahim Mosad\source\repos\WebApplication\WebApplication_Test\obj\Debug\netcoreapp2.1\WebApplication_Test.dll
+C:\Users\Ibrahim Mosad\source\repos\WebApplication\WebApplication_Test\obj\Debug\netcoreapp2.1\WebApplication_Test.pdb
